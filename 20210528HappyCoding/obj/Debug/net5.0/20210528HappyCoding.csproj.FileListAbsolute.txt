@@ -1,0 +1,16 @@
+E:\Work\Projects\Meetings\HappyCoding\2021-05-28\20210528HappyCoding\20210528HappyCoding\bin\Debug\net5.0\20210528HappyCoding.exe
+E:\Work\Projects\Meetings\HappyCoding\2021-05-28\20210528HappyCoding\20210528HappyCoding\bin\Debug\net5.0\20210528HappyCoding.deps.json
+E:\Work\Projects\Meetings\HappyCoding\2021-05-28\20210528HappyCoding\20210528HappyCoding\bin\Debug\net5.0\20210528HappyCoding.runtimeconfig.json
+E:\Work\Projects\Meetings\HappyCoding\2021-05-28\20210528HappyCoding\20210528HappyCoding\bin\Debug\net5.0\20210528HappyCoding.runtimeconfig.dev.json
+E:\Work\Projects\Meetings\HappyCoding\2021-05-28\20210528HappyCoding\20210528HappyCoding\bin\Debug\net5.0\20210528HappyCoding.dll
+E:\Work\Projects\Meetings\HappyCoding\2021-05-28\20210528HappyCoding\20210528HappyCoding\bin\Debug\net5.0\ref\20210528HappyCoding.dll
+E:\Work\Projects\Meetings\HappyCoding\2021-05-28\20210528HappyCoding\20210528HappyCoding\bin\Debug\net5.0\20210528HappyCoding.pdb
+E:\Work\Projects\Meetings\HappyCoding\2021-05-28\20210528HappyCoding\20210528HappyCoding\obj\Debug\net5.0\20210528HappyCoding.csprojAssemblyReference.cache
+E:\Work\Projects\Meetings\HappyCoding\2021-05-28\20210528HappyCoding\20210528HappyCoding\obj\Debug\net5.0\20210528HappyCoding.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Projects\Meetings\HappyCoding\2021-05-28\20210528HappyCoding\20210528HappyCoding\obj\Debug\net5.0\20210528HappyCoding.AssemblyInfoInputs.cache
+E:\Work\Projects\Meetings\HappyCoding\2021-05-28\20210528HappyCoding\20210528HappyCoding\obj\Debug\net5.0\20210528HappyCoding.AssemblyInfo.cs
+E:\Work\Projects\Meetings\HappyCoding\2021-05-28\20210528HappyCoding\20210528HappyCoding\obj\Debug\net5.0\20210528HappyCoding.csproj.CoreCompileInputs.cache
+E:\Work\Projects\Meetings\HappyCoding\2021-05-28\20210528HappyCoding\20210528HappyCoding\obj\Debug\net5.0\20210528HappyCoding.dll
+E:\Work\Projects\Meetings\HappyCoding\2021-05-28\20210528HappyCoding\20210528HappyCoding\obj\Debug\net5.0\ref\20210528HappyCoding.dll
+E:\Work\Projects\Meetings\HappyCoding\2021-05-28\20210528HappyCoding\20210528HappyCoding\obj\Debug\net5.0\20210528HappyCoding.pdb
+E:\Work\Projects\Meetings\HappyCoding\2021-05-28\20210528HappyCoding\20210528HappyCoding\obj\Debug\net5.0\20210528HappyCoding.genruntimeconfig.cache
